@@ -1,2 +1,2 @@
 # E---Commerce-Website-Basic
-Created a simple e-commerce website using HTML, CSS, and JavaScript. The website is designed for users to view a catalog of products with detailed information.
+This project is a basic e-commerce website developed using HTML, CSS, and JavaScript. It allows users to browse a catalog of products, view detailed information about each product, and navigate through a responsive design that works on various devices.
